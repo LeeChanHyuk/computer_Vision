@@ -5,3 +5,5 @@
 **Uploaded algorithm's list**
 - Harris Corner Detector
 - Filters (Sobel..)
+- Rendering Object (Sphere)
+- Camera Parameter
